@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel ./assets/js/dev/_common.js -o ./assets/js/_common.js"
+  },
+  "author": "Jiyoung Park",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-preset-minify": "^0.5.1"
+  }
+}

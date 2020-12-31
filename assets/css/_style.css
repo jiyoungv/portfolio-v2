@@ -1,0 +1,91 @@
+@charset "utf-8";
+
+/* variable */
+:root {
+	/* color */
+	--white: #fff;
+	--dark_1: #333;
+	--dark_2: #ccc;
+	--babypink: #ffe6e6;
+
+	/* font */
+	--tit_1: 28px;
+	--tit_2: 24px;
+	--tit_3: 20px;
+	--text_1: 18px;
+	--text_2: 14px;
+}
+
+/* common */
+body {
+	min-height: 100vh; 
+	background: #FCF5EB; 
+	font-family: 'Noto Sans KR'; 
+	font-weight: 400; 
+	font-size: 16px; 
+	color: #333; 
+	line-height: 1; 
+	word-break: keep-all;
+}
+body.dark {background: var(--dark_1); color: var(--white);}
+body.dark a {color: var(--white);}
+h1, h2, h3, h4, h5, h6, p, a, link, ul, ol, li, dl, dt, dd,
+input, textarea, button, option, label, fieldset, legend, datalist, output, figcaption, 
+caption, th, tr, td {letter-spacing: -0.06em;}
+article, div {position: relative;}
+a {color: #000;} a,a:hover {text-decoration: none;}
+hr {margin: 0;}
+::selection {background: #f8e00e; color: #fff;}
+
+b {font-weight: 700;} 
+b.medium {font-weight: 500;}
+b.black {font-weight: 900;}
+i.italic {font-style: italic;}
+.roboto {font-family: 'Roboto'; letter-spacing: 0;}
+.hidden {
+    position: absolute;
+    clip: rect(1px, 1px, 1px, 1px); 
+	-webkit-clip-path: inset(0px 0px 99.9% 99.9%); 
+	clip-path: inset(0px 0px 99.9% 99.9%);
+    overflow: hidden;
+    width: 1px; height: 1px;
+    padding: 0; border: 0;
+}
+.clear:after {content: ''; display: block; clear: both;}
+.inner800, .inner600, .inner500 {width: 90%; height: 100%; margin: 0 auto; position: relative;}
+.inner800 {max-width: 800px;}
+.inner600 {max-width: 600px;}
+.inner500 {max-width: 500px;}
+
+#wrap {position: relative; height: 100%;}
+#container {position: relative;}
+
+/* header */
+#header {position: relative; padding-top: 100px; margin-bottom: 100px;}
+#header .version {position: absolute; bottom: 10px; right: 0; font-size: var(--text_2);}
+
+/* gnb */
+#gnb .depth1 > a {letter-spacing: 0.05em;}
+#gnb .depth1:not(.on) > a {color: #ccc;}
+#gnb .depth1 .link1 {font-family: 'Bangers', cursive; font-size: 70px;}
+#gnb .depth1 .link2 {font-family: 'Amatic SC', cursive; font-size: 90px;}
+#gnb .depth1.on .link1 {font-size: 100px;}
+#gnb .depth1.on .link2 {font-size: 130px;}
+
+/* footer */
+#footer {margin-top: 100px; padding: 30px 0;}
+#footer .copy {float: left; font-size: var(--text_2);}
+#footer .top {float: right;}
+#footer .top a {letter-spacing: 0.1em;}
+
+
+@media only screen and (max-width: 768px) {
+	/* header */
+	#header {padding-top: 60px; margin-bottom: 60px;}
+
+	/* gnb */
+	#gnb .depth1 .link1 {font-size: 55px;}
+	#gnb .depth1 .link2 {font-size: 65px;}
+	#gnb .depth1.on .link1 {font-size: 70px;}
+	#gnb .depth1.on .link2 {font-size: 90px;}
+}

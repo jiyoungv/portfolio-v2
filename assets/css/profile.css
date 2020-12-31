@@ -1,0 +1,31 @@
+@charset "utf-8";
+
+/* profile */
+.profile_con {}
+.profile_con .coding_gif {margin-bottom: 20px;}
+.profile_con .coding_gif img {width: 100%; max-width: 500px;}
+.profile_con .intro {margin-bottom: 30px;}
+.profile_con .intro h1 {margin-bottom: 10px;font-size: 30px;}
+.profile_con .intro p {line-height: 1.6;}
+.profile_con .skill {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	padding: 20px 0;
+	margin-bottom: 30px;
+	background: rgba(255, 255, 255, 0.9);
+	border-radius:20px;
+}
+.profile_con .skill figure {height: 70px;}
+.profile_con .skill figure img {height: 100%;}
+.profile_con .motto {margin-bottom: 30px;}
+.profile_con .motto h1 {font-family: 'UhBeeSe_hyun'; font-size: 40px; line-height: 1.6; letter-spacing: 0;}
+.profile_con .util {text-align: center;}
+.profile_con .util a {display: inline-block; margin: 0 4px; vertical-align: middle; font-size: 26px;}
+.profile_con .util a:last-of-type {margin-right: 0;}
+
+@media only screen and (max-width: 768px) {
+	/* profile */
+	.profile_con .skill figure {height: 50px;}
+	.profile_con .motto h1 {font-size: 26px;}
+}
