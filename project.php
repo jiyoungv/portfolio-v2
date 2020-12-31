@@ -122,7 +122,7 @@
 					<li class="roboto open">20.08.15 Open</li>
 				</ul>
 			</div>
-			<a href="http://heralux.com/" title="Go to Website" class="link" target="_blank">
+			<a href="http://amaxg.net/" title="Go to Website" class="link" target="_blank">
 				<span class="hidden">사이트 바로가기</span>
 			</a>
 		</article>
