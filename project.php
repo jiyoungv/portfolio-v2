@@ -9,7 +9,7 @@
 	<section id="container" class="project">
 		<div class="inner600 project_ps">
 			<ul>
-				<li>다음 v2.1.0 목표 - DB 연결하여 PHP로 데이터 뿌리기</li>
+				<!-- <li>다음 v2.1.0 목표 - DB 연결하여 PHP로 데이터 뿌리기</li> -->
 				<li>클릭 시 해당 웹사이트로 이동합니다.</li>
 				<li><b>elements.has(❤️) == <span class="roboto">'Good Project!';</span></b></li>
 			</ul>
@@ -32,7 +32,7 @@
 						<p><b class="medium">CSS</b></p>
 						<p><b class="medium">JavaScript</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 본인</li>
 					<li class="roboto open">20.12.30 Open</li>
 				</ul>
@@ -59,7 +59,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 조인스엠</li>
 					<li class="roboto open">20.12.11 Open</li>
 				</ul>
@@ -89,7 +89,7 @@
 						<p><b class="medium">Require.js</b></p>
 						<p><b class="medium">Interacive</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 30%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 30%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 더즈인터랙티브</li>
 					<li class="roboto open">21.01 Open 예정</li>
 				</ul>
@@ -117,7 +117,7 @@
 						<p><b class="medium">jQuery</b></p>
 						<p><b class="medium">Fullpage</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 허그매니지먼트</li>
 					<li class="roboto open">20.08.15 Open</li>
 				</ul>
@@ -144,7 +144,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 야누스타</li>
 					<li class="roboto open">20.07.23 Open</li>
 				</ul>
@@ -171,7 +171,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 서울홍치과</li>
 					<li class="roboto open">20.06.26 Open</li>
 				</ul>
@@ -198,7 +198,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 서울정진치과</li>
 					<li class="roboto open">20.06.04 Open</li>
 				</ul>
@@ -225,7 +225,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 국립현대미술관 문화재단</li>
 					<li class="roboto open">20.04.24 Open</li>
 				</ul>
@@ -252,7 +252,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 연세삼성정신과</li>
 					<li class="roboto open">20.03.26 Open</li>
 				</ul>
@@ -279,7 +279,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 타토아의원</li>
 					<li class="roboto open">20.01.30 Open</li>
 				</ul>
@@ -306,7 +306,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 뷰클라인</li>
 					<li class="roboto open">20.01.10 Open</li>
 				</ul>
@@ -333,7 +333,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 마이핏슈즈</li>
 					<li class="roboto open">19.12.09 Open</li>
 				</ul>
@@ -360,7 +360,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 쏘카</li>
 					<li class="roboto open">19.11.27 Open</li>
 				</ul>
@@ -387,7 +387,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 끌레어의원</li>
 					<li class="roboto open">19.11.11 Open</li>
 				</ul>
@@ -414,7 +414,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 조인스엠</li>
 					<li class="roboto open">19.10.11 Open</li>
 				</ul>
@@ -443,7 +443,7 @@
 						<p><b class="medium">Fullpage</b></p>
 						<p><b class="medium">Interaction</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 야누스타</li>
 					<li class="roboto open">19.10.02 Open</li>
 				</ul>
@@ -470,7 +470,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 타토아의원</li>
 					<li class="roboto open">19.09.19 Open</li>
 				</ul>
@@ -497,7 +497,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 리앤안의원</li>
 					<li class="roboto open">19.08.02 Open</li>
 				</ul>
@@ -524,7 +524,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 예뻐진의원</li>
 					<li class="roboto open">19.07.10 Open</li>
 				</ul>
@@ -551,7 +551,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 더리턴피부과</li>
 					<li class="roboto open">19.06.28 Open</li>
 				</ul>
@@ -578,7 +578,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 스포츠잡알리오</li>
 					<li class="roboto open">19.06.20 Open</li>
 				</ul>
@@ -605,7 +605,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 남다른 인테리어</li>
 					<li class="roboto open">19.06.10 Open</li>
 				</ul>
@@ -632,7 +632,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 더마스터의원</li>
 					<li class="roboto open">19.04.25 Open</li>
 				</ul>
@@ -659,7 +659,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 히로신경외과</li>
 					<li class="roboto open">19.04.08 Open</li>
 				</ul>
@@ -686,7 +686,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 탐클리닉</li>
 					<li class="roboto open">19.04.05 Open</li>
 				</ul>
@@ -713,7 +713,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 척편한통증의학과</li>
 					<li class="roboto open">19.03.04 Open</li>
 				</ul>
@@ -740,7 +740,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 조인스엠</li>
 					<li class="roboto open">19.02.26 Open</li>
 				</ul>
@@ -767,7 +767,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 여화담</li>
 					<li class="roboto open">19.01.31 Open</li>
 				</ul>
@@ -794,7 +794,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 케이부스터</li>
 					<li class="roboto open">19.01.28 Open</li>
 				</ul>
@@ -821,7 +821,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 레이저옵텍</li>
 					<li class="roboto open">19.01.21 Open</li>
 				</ul>
@@ -848,7 +848,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 같은마음신경정신과</li>
 					<li class="roboto open">19.01.16 Open</li>
 				</ul>
@@ -875,7 +875,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 서울365소아청소년과</li>
 					<li class="roboto open">19.01.02 Open</li>
 				</ul>
@@ -902,7 +902,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 이레생한의원</li>
 					<li class="roboto open">18.11.XX Open</li>
 				</ul>
@@ -930,7 +930,7 @@
 						<p><b class="medium">jQuery</b></p>
 						<p><b class="medium">Parallax</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 에이치산업개발</li>
 					<li class="roboto open">18.11.28 Open</li>
 				</ul>
@@ -957,7 +957,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 바비의원</li>
 					<li class="roboto open">18.08.XX Open</li>
 				</ul>
@@ -984,7 +984,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 키플러스의원</li>
 					<li class="roboto open">18.07.XX Open</li>
 				</ul>
@@ -993,7 +993,7 @@
 				<span class="hidden">사이트 바로가기</span>
 			</a>
 		</article>
-		<article class="clear project_con special">
+		<article class="clear project_con">
 			<div class="thumb">
 				<figure class="img"><img src="./assets/img/project/project_thumb0.jpg" width="" alt="프로젝트 썸네일"/></figure>
 				<div class="clear tag_wrap">
@@ -1011,7 +1011,7 @@
 						<p><b class="medium">JavaScript</b></p>
 						<p><b class="medium">jQuery</b></p>
 					</li>
-					<li class="ratio"><span class="tit_s">참여율</span> 100%</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
 					<li class="client"><span class="tit_s">클라이언트</span> 본인</li>
 					<li class="roboto open">18.05.XX Open</li>
 				</ul>

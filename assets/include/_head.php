@@ -20,8 +20,8 @@
 <link rel="stylesheet" href="/p/assets/css/_style.css"/>
 
 <script src="https://kit.fontawesome.com/2d09ad1804.js" crossorigin="anonymous"></script>
-<script src="/p/assets/js/prefixfree.min.js"></script>
+<script src="/p/assets/js/lib/prefixfree.min.js"></script>
 <script>window.MSInputMethodContext && document.documentMode && document.write('<script src="https://cdn.jsdelivr.net/gh/nuxodin/ie11CustomProperties@4.1.0/ie11CustomProperties.min.js"><\/script>');</script>
 <!--[if lt IE 9]>
-	<script src="/p/assets/js/html5shiv.min.js"></script>
+	<script src="/p/assets/js/lib/html5shiv.min.js"></script>
 <![endif]-->	

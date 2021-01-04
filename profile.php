@@ -17,8 +17,9 @@
 					<p>- 조인스엠 / 18.06.18 ~ 20.08.31 / 웹개발팀 - 퍼블리셔 근무</p>
 					<p>✔ 1992년생, 서울 거주</p>
 					<p class="roboto">✔ jiyoungvvvvv@gmail.com</p>
-					<p>✔ 현재 공부하고 있는 것</p>
+					<p>✔ 현재 관심 있는 것</p>
 					<p>- React로 SPA 구축하기 <br/><span class="roboto">(ES6+, React-Redux, Redux-saga, Next.js, Styled-Component, Node.js, Express.js, Sequelize)</span></p>
+					<p>- 웹 성능 최적화</p>
 				</div>
 				<div class="skill">
 					<figure>
