@@ -18,7 +18,7 @@
 					<p>✔ 1992년생, 서울 거주</p>
 					<p class="roboto">✔ jiyoungvvvvv@gmail.com</p>
 					<p>✔ 현재 관심 있는 것</p>
-					<p>- React로 SPA 구축하기 <br/><span class="roboto">(ES6+, React-Redux, Redux-saga, Next.js, Styled-Component, Node.js, Express.js, Sequelize)</span></p>
+					<p>- React로 SPA 구축하기</p>
 					<p>- 웹 성능 최적화</p>
 				</div>
 				<div class="skill">
