@@ -15,6 +15,34 @@
 			</ul>
 		</div>
 
+		<article class="clear project_con special">
+			<div class="thumb">
+				<figure class="img"><img src="./assets/img/project/project_thumb34.png" width="450" alt="프로젝트 썸네일"/></figure>
+				<div class="clear tag_wrap">
+					<p class="tag">개인</p>
+					<p class="tag">반응형</p>
+				</div>
+			</div>
+			<div class="txt">
+				<ul class="list">
+					<li class="num">037</li>
+					<li class="tit"><b class="black">Next.js Simple Todo</b></li>
+					<li class="roboto clear lang">
+						<p><b class="medium">React</b></p>
+						<p><b class="medium">Next</b></p>
+						<p><b class="medium">Redux</b></p>
+						<p><b class="medium">Redux-saga</b></p>
+					</li>
+					<li class="ratio"><span class="tit_s">참여율</span> 퍼블리싱 100%</li>
+					<li class="client"><span class="tit_s">클라이언트</span> 본인</li>
+					<li class="content">redux-saga로 비동기 action을 구현한 next app 입니다. <br/>vercel로 배포하였습니다.</li>
+					<li class="roboto open">21.02.15 Open</li>
+				</ul>
+			</div>
+			<a href="https://nextjs-simple-todo.vercel.app" title="Go to Website" class="link" target="_blank">
+				<span class="hidden">사이트 바로가기</span>
+			</a>
+		</article>
 		<article class="clear project_con">
 			<div class="thumb">
 				<figure class="img"><img src="./assets/img/project/project_thumb33.png" width="100" alt="프로젝트 썸네일"/></figure>

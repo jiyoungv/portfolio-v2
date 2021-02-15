@@ -10,6 +10,6 @@
 				</li>
 			</ul>
 		</nav>
-		<p class="version roboto">v2.0.2 <a href="https://github.com/jiyoungv/Portfolio" title="Go to Github" target="_blank"><i class="fab fa-github"></i></a></p>
+		<p class="version roboto">v2.0.3 <a href="https://github.com/jiyoungv/Portfolio" title="Go to Github" target="_blank"><i class="fab fa-github"></i></a></p>
 	</div>
 </header>
