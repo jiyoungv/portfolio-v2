@@ -1,9 +1,5 @@
 # PORTFOLIO
 
-## URL
-### http://pjy0709.cafe24.com/p/project.php  
-(현재 호스팅 만료)
-
 ## Version Log
 ##### (a.b.c - a: 리뉴얼 / b: 기능 수정 / c: 오류나 자잘한 수정)
 
